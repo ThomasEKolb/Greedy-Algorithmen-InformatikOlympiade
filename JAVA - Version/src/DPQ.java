@@ -68,7 +68,7 @@ public class DPQ {
     }
 
     public static void main(String arg[]) {
-        int V = 0; // TODO hier aendern
+        int V = 10; // TODO hier aendern
         int source = 0; // startpunkt
 
         // Adjazenzliste
@@ -126,6 +126,7 @@ public class DPQ {
      */
     public static void aufgabeZwei(@NotNull List<List<Node>> adj) {
         // TODO ADD CODE HERE
+
     }
 }
 
